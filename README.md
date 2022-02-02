@@ -5,5 +5,5 @@ pip install gtts
 pip install soco
 pip install colorama
 
-python soco.py -h
+python sonos.py -h
 ```
