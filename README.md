@@ -1,7 +1,7 @@
 # Installation
 
 ```
-git clone https://github.com/9sv/SonosTTS && cd SonosTTS
+git clone https://github.com/drooling/SonosTTS && cd SonosTTS
 pip install gtts
 pip install soco
 pip install colorama
